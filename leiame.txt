@@ -12,3 +12,18 @@ Exemplo:
 "scripts": {
     "start": "json-server --watch db.json --port 3001"
   },
+
+
+-----INSTALAÇÃO DO CLI - COMAND LINE INTERFACE------
+
+instala o componente do angular
+	npm i -g @angular/cli
+
+cria um novo projeto
+	ng new nomedoapp
+
+iniciar a aplicação
+	ng start
+
+diretório padrão
+	http://localhost:4200/
