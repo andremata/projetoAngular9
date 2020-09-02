@@ -1,0 +1,14 @@
+para criar um arquivo json
+	npm json -y (o -y é para responder a todas as perguntas automaticamente)
+
+cria um server json
+	npm i json-server
+
+inicia o server
+	npm  start
+
+Observação: antes de iniciar o json server criar o script de inicialização no arquivo package.json
+Exemplo:
+"scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
