@@ -32,3 +32,9 @@ diretório padrão
 
 instala o material
 	ng add @angular/material
+
+-----GERANDO UM NOVO COMPONENTE------
+
+criando um novo componente
+	ng generate component + caminho a ser criado
+	ng g c + caminho a ser criado
