@@ -27,3 +27,8 @@ iniciar a aplicação
 
 diretório padrão
 	http://localhost:4200/
+
+-----INNTALAÇÃO DO MATERIAL------
+
+instala o material
+	ng add @angular/material
