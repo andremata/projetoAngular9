@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "Monitor 20 Polegadas",
-      "Price": 899.9
+      "price": 899.9
     },
     {
       "id": 2,
       "name": "Notebook",
-      "Price": 3899.9
+      "price": 3899.9
     },
     {
       "id": 3,
       "name": "Smartphone",
-      "Price": 1099.9
+      "price": 1099.9
     }
   ]
 }
