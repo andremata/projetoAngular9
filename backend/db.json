@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Monitor 20 Polegadas",
+      "name": "Monitor 24 Polegadas",
       "price": 899.9
     },
     {
@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Smartphone",
       "price": 1099.9
+    },
+    {
+      "name": "Kit Gamer",
+      "price": "284.90",
+      "id": 4
     }
   ]
 }
